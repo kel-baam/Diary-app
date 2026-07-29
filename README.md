@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 Project Name
+# 📱 Diary Mobile App
 
 **A mobile diary application built with React Native and Expo** — create, manage, and store personal diary entries, with secure sign-in via Google or GitHub.
 
